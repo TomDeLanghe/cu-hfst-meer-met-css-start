@@ -1,0 +1,37 @@
+﻿html {
+    background-color: darkgrey;
+    height: 100%;
+}
+
+body {
+    background-color: darkslategrey;
+    padding: 30px;
+    margin: 0 auto;
+    color: ghostwhite;
+    width: 60%;
+    height: 100%;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border: 10px solid grey;
+}
+
+a {
+    color: lightblue;
+    font-size: larger;
+}
+
+p {
+    margin: 5px 15px;
+    height: 20px;
+    background-color: lightblue;
+    border: 2px solid black;
+}
+
+article {
+    padding: 10px;
+    background-color: lightcoral;
+}
+
